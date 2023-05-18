@@ -44,6 +44,13 @@
                 </div>
               </div>
             </perfect-scrollbar>
+            <div class="d-flex justify-content-center" style="margin-top: 15px">
+              <a
+                class="btn btn-primary"
+                href="https://portfolio-devs.netlify.app/"
+                >More Project</a
+              >
+            </div>
           </div>
           <!-- End of Portfolio Content -->
         </div>
